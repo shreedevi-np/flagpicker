@@ -1,0 +1,32 @@
+INSERT INTO `continent` (`id`,`name`,`datecreated`,`dateupdated`) VALUES (1,'Africa',now(),now());
+INSERT INTO `continent` (`id`,`name`,`datecreated`,`dateupdated`) VALUES (2,'America',now(),now());
+INSERT INTO `continent` (`id`,`name`,`datecreated`,`dateupdated`) VALUES (3,'Asia',now(),now());
+INSERT INTO `continent` (`id`,`name`,`datecreated`,`dateupdated`) VALUES (4,'Europe',now(),now());
+INSERT INTO `continent` (`id`,`name`,`datecreated`,`dateupdated`) VALUES (5,'Oceania',now(),now());
+
+
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (2,'DR Congo','ðŸ‡¨ðŸ‡©',1,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (3,'Egypt','ðŸ‡ªðŸ‡¬',1,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (4,'South Africa','ðŸ‡¿ðŸ‡¦',1,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (5,'Nigeria','ðŸ‡³ðŸ‡¬',1,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (6,'Ethiopia','ðŸ‡ªðŸ‡¹',1,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (7,'Colombia','ðŸ‡¨ðŸ‡´',2,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (8,'USA','ðŸ‡ºðŸ‡¸',2,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (9,'Argentina','ðŸ‡¦ðŸ‡·',2,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (10,'Brazil','ðŸ‡§ðŸ‡·',2,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (11,'Mexico','ðŸ‡²ðŸ‡½',2,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (12,'Bangladesh','ðŸ‡§ðŸ‡©',3,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (13,'Pakistan','ðŸ‡µðŸ‡°',3,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (14,'China','ðŸ‡¨ðŸ‡³',3,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (15,'India','ðŸ‡®ðŸ‡³',3,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (16,'Indonesia','ðŸ‡®ðŸ‡©',3,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (17,'UK','ðŸ‡¬ðŸ‡§',4,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (18,'Italy','ðŸ‡®ðŸ‡¹',4,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (19,'France','ðŸ‡«ðŸ‡·',4,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (20,'Germany','ðŸ‡©ðŸ‡ª',4,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (21,'Russia','ðŸ‡·ðŸ‡º',4,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (22,'New Zealand','ðŸ‡³ðŸ‡¿',5,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (23,'Papua New Guinea','ðŸ‡µðŸ‡¬',5,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (24,'Fiji','ðŸ‡«ðŸ‡¯',5,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (25,'Australia','ðŸ‡¦ðŸ‡º',5,now(),now());
+INSERT INTO `country` (`id`,`name`,`flag`,`continent`,`datecreated`,`dateupdated`) VALUES (26,'Solomon Islands','ðŸ‡¸ðŸ‡§',5,now(),now());
